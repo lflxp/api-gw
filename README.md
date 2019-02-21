@@ -4,6 +4,7 @@ api-gw for micro service and reverse proxy
 # 介绍
 
 本项目的作用是进行微服务api-gw网关反向代理的自研，实现动态热更新配置进行7层http代理
+
 学习和开发项目，让小白明白其中的原理，实现自己的价值
 
 # 范围
